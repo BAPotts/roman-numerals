@@ -38,8 +38,8 @@
 |Program will convert "100" to "C"   |"100"|"C"   |
 |Program will convert "500" to "D" |"500"  |"D"   |
 |Program will convert "1000" to "M"   |"1000"   |"M"   ||
-|   |   |   |
-|   |   |   |
+|Program will display Roman numerals the summation of which add up to the user-inputted integer   |"3"  |"III"   |
+|Program will not repeat numerals "I" "V" or "X" more than three times consecutively" | "4"  |"IV"   |
 |   |   |   |
 |   |   |   |
 ## Known Bugs
