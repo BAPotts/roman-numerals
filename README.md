@@ -29,15 +29,15 @@
 |  Behavior | Input  |Output   |
 |---|---|---|
 |Program will give error if non-integer is entered   | "seven", "8.5"  |"Please enter a numeric character"   |
+|program will give error if number under 1 is entered |"0", "-3" |"Number must be between 1 and 3,999|
+|Program will give error if number over 3,999 is entered|"4000"|"Number must be between 1 and 3,999|
 |Program will convert "1" to "I"  |"1"   |"I"   |
 |Program will convert single digit entry of "5" to "V"   |"5" |"V"  |
 |Program will convert "10" to "X"   |"10"  |"X"   |
 |Program will convert "50" to "L"   |"50"  |"L"  |
 |Program will convert "100" to "C"   |"100"|"C"   |
 |Program will convert "500" to "D" |"500"  |"D"   |
-|Program will convert "1000" to "M"   |"1000"   |"M"   |
-|   |   |   |
-|   |   |   |
+|Program will convert "1000" to "M"   |"1000"   |"M"   ||
 |   |   |   |
 |   |   |   |
 |   |   |   |
